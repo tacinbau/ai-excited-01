@@ -27,3 +27,8 @@ Run it locally:
 ```sh
 MAKEFUN_OUTPUT_DIR=out node main.ts
 ```
+
+## Round 2 rebuild
+
+Rebuilt fresh on 2026-11-16 for resubmission with the same Lanternback image
+(vendored `entry.png` unchanged).
